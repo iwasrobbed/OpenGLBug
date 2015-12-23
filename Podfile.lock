@@ -1,0 +1,10 @@
+PODS:
+  - Google-Maps-iOS-SDK-for-Business (1.10.5)
+
+DEPENDENCIES:
+  - Google-Maps-iOS-SDK-for-Business (~> 1.10.5)
+
+SPEC CHECKSUMS:
+  Google-Maps-iOS-SDK-for-Business: 4a76393752ef39875adb96b0671d9f686f4ba3c6
+
+COCOAPODS: 0.38.2
